@@ -1,0 +1,7 @@
+## Interface: 90200
+## Title: |cffd6266cFastInstanceReset|r
+## Notes: Resets all instances when leaving an instance.
+## Author: BloodDragon2580
+## Version: 1.0
+
+FastInstanceReset.lua
