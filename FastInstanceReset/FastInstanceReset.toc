@@ -2,6 +2,6 @@
 ## Title: |cffd6266cFastInstanceReset|r
 ## Notes: Resets all instances when leaving an instance.
 ## Author: BloodDragon2580
-## Version: 1.6
+## Version: 1.7
 
 FastInstanceReset.lua
