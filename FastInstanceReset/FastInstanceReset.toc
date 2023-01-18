@@ -1,7 +1,7 @@
-## Interface: 100002
+## Interface: 100005
 ## Title: |cffd6266cFastInstanceReset|r
 ## Notes: Resets all instances when leaving an instance.
 ## Author: BloodDragon2580
-## Version: 1.7
+## Version: 1.8
 
 FastInstanceReset.lua
