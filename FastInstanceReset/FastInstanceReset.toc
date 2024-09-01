@@ -2,7 +2,7 @@
 ## Title: |cffd6266cFastInstanceReset|r
 ## Notes: Resets all instances when leaving an instance.
 ## Author: BloodDragon2580
-## Version: 4.0
+## Version: 4.1
 ## IconTexture: Interface\AddOns\FastInstanceReset\Media\Texture\logo
 
 FastInstanceReset.lua
