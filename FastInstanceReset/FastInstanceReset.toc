@@ -1,8 +1,8 @@
-## Interface: 110200
+## Interface: 110205
 ## Title: |cffd6266cFastInstanceReset|r
 ## Notes: Resets all instances when leaving an instance.
 ## Author: BloodDragon2580
-## Version: 9.5
+## Version: 9.6
 ## IconTexture: Interface\AddOns\FastInstanceReset\Media\Texture\logo
 
 FastInstanceReset.lua
